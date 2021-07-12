@@ -1,0 +1,64 @@
+body{
+	margin: 0;
+}
+.header-area{
+	background-color:#3B5998;
+	padding:10px 0;
+	front-family:tahoma;
+}
+.header-area  .logo-area{
+	width:30%;
+	float:left;
+}
+.header-area .login-area{
+	overflow: hidden;
+	width: 70%;
+}
+.login-area label{
+	display:block;
+}
+.login-area input{
+	display:block;
+}
+.login-area input[type="checkbox"]{
+	float:left;
+	margin-left: 0;
+}
+.login-area label{
+	color:#FFFFFF;
+	font-size:12px;
+}
+.login-area input{
+	margin:3px 0;
+}
+.login-area a{
+	color:#8CACC3;
+	font-size:12px;
+	text-decoration:none;
+}
+
+.login-area .username-area{
+	float:left;
+	margin-right:15px;
+}
+.login-area .password-area{
+	overflow:hidden;
+	float:left;
+	margin-right:15px;
+}
+.login-area .submit-area{
+	overflow:hidden;
+}
+.username-area label:last-child{
+	margin-top:3px;
+	display:inline-block;
+	overflow:hidden;
+	margin-left:2px;
+	color:#8CACC3;
+}
+	
+	
+
+	
+	
+	
